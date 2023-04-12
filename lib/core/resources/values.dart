@@ -1,0 +1,11 @@
+const String usernameConfigDev = '';
+const String passwordConfigDev = '';
+const String usernameConfigTest = '';
+const String passwordConfigTest = '';
+const String usernameConfigProd = '';
+const String passwordConfigProd = '';
+const String appId = '39c0a7208b1843ab92d2f1d0a877e656';
+const String urlAgoraServer = 'https://agora-bfi-token.herokuapp.com/';
+const String urlFcm = 'https://fcm.googleapis.com/fcm/send';
+const String keyFcm =
+    'key=AAAAHlln7vs:APA91bFIT4713RplQNsnQu1iTFd2zXC6N5gsB-rffOTHSzNGuWriQ-DbPqzpH0rSJfLsSWs7o834wMJcJxWrXjzAigfpOsViiXF7atb3x-HYurrPjFddTCViVCa4qYTOF86ZYVdGoE7L';
